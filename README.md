@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://srv-store5.gofile.io/download/upU5Zh/images1.png">
+  <img src="https://i.ibb.co/r549KvK/images1.png">
 </p>
 
 # :computer: Main window

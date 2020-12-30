@@ -6,10 +6,7 @@
   <img src="https://i.ibb.co/r549KvK/images1.png">
 </p>
 
-# :computer: Main window
-<p align="center">
-  <img src="https://i.ibb.co/8c1fb1Q/Impulse-Main.png">
-</p>
+
 
 # :satellite: Methods:
 | Method               |   Target   | Description |
@@ -53,8 +50,5 @@
 # :phone: Example SMS & Call flood:
 ```python3 impulse.py --method SMS --time 20 --threads 15 --target +92123456789```
 
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
-</p>
 
 

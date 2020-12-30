@@ -54,7 +54,7 @@
 ```python3 impulse.py --method SMS --time 20 --threads 15 --target +92123456789```
 
 <p align="center">
-  <img src="https://srv-store5.gofile.io/download/upU5Zh/images1.png">
+  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
 </p>
 
 

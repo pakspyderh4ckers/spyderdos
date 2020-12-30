@@ -1,3 +1,11 @@
+# Import modules
+from colorama import Fore
+
+# Logo
+print(rf"""{Fore.MAGENTA}
+
+                        (Pak Spyder Hackers)-(Abbas khan)
+{Fore.RESET}""")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m
 

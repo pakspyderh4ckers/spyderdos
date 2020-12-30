@@ -27,7 +27,7 @@ https://www.youtube.com/channel/UCopzQdauxIBHusZtDPjGPAw
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
-  * Download Impulse
+  * Download SpyderDos
   * Open cmd or powershell in Impulse directory
   * Run this command: `pip install -r requirements.txt`
   * And this: `python impulse.py --help`

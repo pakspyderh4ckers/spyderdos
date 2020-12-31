@@ -1,4 +1,4 @@
-# :bomb: Impulse
+# :bomb: spyderdos
 ## Modern Denial-of-service ToolKit
 
 
@@ -28,28 +28,28 @@ https://www.youtube.com/channel/UCopzQdauxIBHusZtDPjGPAw
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
   * Download SpyderDos
-  * Open cmd or powershell in Impulse directory
+  * Open cmd or powershell in spyderdos directory
   * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
+  * And this: `python spyderdos.py --help`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
   * `git clone https://github.com/pakspyderh4ckers/spyderdos
-  * `cd Impulse/`
+  * `cd spyderdos`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 spyderdos.py --help`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
   * `git clone https://github.com/pakspyderh4ckers/spyderdos`
-  * `cd Impulse/`
+  * `cd spyderdos`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 spyderdos.py --help`
 
 # :phone: Example SMS & Call flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +92123456789```
+```python3 spyderdos.py --method SMS --time 20 --threads 15 --target +92123456789```
 
 
 
